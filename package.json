@@ -1,0 +1,11 @@
+{
+  "name": "kojikawamura.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kojikawamura/kojikawamura.com.git",
+  "author": "Koji Kawamura <koji.kawamura.jp@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  }
+}
